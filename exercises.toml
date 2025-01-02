@@ -3,35 +3,31 @@ exercises = [
     1,
     2,
     3,
+    4,
+    5,
   ] },
   { label = "ITB Left", reps = [
-    1,
-    2,
-    3,
-  ] },
-  { label = "Piriformis Right", reps = [
-    1,
-    2,
-    3,
-  ] },
-  { label = "Piriformis Left", reps = [
-    1,
-    2,
-    3,
-  ] },
-  { label = "Butterfly", reps = [
-    1,
-    2,
-    3,
-  ] },
-  { label = "3-Way Kick Right", reps = [
     1,
     2,
     3,
     4,
     5,
   ] },
-  { label = "3-Way Kick Left", reps = [
+  { label = "Piriformis Right", reps = [
+    1,
+    2,
+    3,
+    4,
+    5,
+  ] },
+  { label = "Piriformis Left", reps = [
+    1,
+    2,
+    3,
+    4,
+    5
+  ] },
+  { label = "Butterfly", reps = [
     1,
     2,
     3,
@@ -44,26 +40,27 @@ exercises = [
     3,
     4,
     5,
+    6, 7, 8,
   ] },
   { label = "Squats", reps = [
     1,
     2,
     3,
     4,
-    5,
+    5, 6,7,8,
   ] },
   { label = "Clamshell Right", reps = [
     1,
     2,
     3,
     4,
-    5,
+    5, 6,7,8,
   ] },
   { label = "Clamshell Left", reps = [
     1,
     2,
     3,
     4,
-    5,
+    5, 6,7,8,
   ] },
 ]
