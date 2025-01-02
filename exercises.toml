@@ -1,0 +1,69 @@
+exercises = [
+  { label = "ITB Right", reps = [
+    1,
+    2,
+    3,
+  ] },
+  { label = "ITB Left", reps = [
+    1,
+    2,
+    3,
+  ] },
+  { label = "Piriformis Right", reps = [
+    1,
+    2,
+    3,
+  ] },
+  { label = "Piriformis Left", reps = [
+    1,
+    2,
+    3,
+  ] },
+  { label = "Butterfly", reps = [
+    1,
+    2,
+    3,
+  ] },
+  { label = "3-Way Kick Right", reps = [
+    1,
+    2,
+    3,
+    4,
+    5,
+  ] },
+  { label = "3-Way Kick Left", reps = [
+    1,
+    2,
+    3,
+    4,
+    5,
+  ] },
+  { label = "Marching w/Resistance", reps = [
+    1,
+    2,
+    3,
+    4,
+    5,
+  ] },
+  { label = "Squats", reps = [
+    1,
+    2,
+    3,
+    4,
+    5,
+  ] },
+  { label = "Clamshell Right", reps = [
+    1,
+    2,
+    3,
+    4,
+    5,
+  ] },
+  { label = "Clamshell Left", reps = [
+    1,
+    2,
+    3,
+    4,
+    5,
+  ] },
+]

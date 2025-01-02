@@ -1,0 +1,58 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.container h1 {
+  display: grid;
+  grid-column: 1 / -1;
+}
+
+.content {
+  grid-column-start: 1;
+  margin-right: 1em;
+}
+
+.ex {
+  border: 1px solid #0f0;
+  margin-bottom: 5px;
+}
+
+.ex h2 {
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.ex button {
+  margin: 2px;
+  border: 1px solid #000;
+}
+
+.ex button.resetButton {
+  display: block;
+  margin: 0px 0px 5px 5px;
+}
+
+.ex .repButton.clicked {
+  background-color: #000;
+  border: 1px solid #000;
+}
+
+.resetAll {
+  margin: 10px 10px 10px 0px;
+}
+
+div.resetAll {
+  border: 1px solid #0f0;
+}
+
+button.resetAll {
+  margin-left: 5px;
+}

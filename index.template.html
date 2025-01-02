@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <title>pte</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="container">
+    <h1>exercises</h1>
+    <div class="resetAll">
+      <button id="resetAll" class="resetAll">reset all</button>
+    </div>
+    <div class="content">
+      {{#exercises}}
+      <div class="ex">
+        <h2>{{label}}</h2>
+        <div>
+          <button type="button" class="resetButton">reset</button>
+          {{#reps}}
+          <button type="button" class="repButton">✔️</button>
+          {{/reps}}
+        </div>
+      </div>
+      {{/exercises}}
+    </div>
+    <script src="index.js"></script>
+</body>
+
+</html>
