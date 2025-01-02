@@ -1,4 +1,7 @@
 # Local Netlify folder
 .netlify
 public/index.html
-
+.editorconfig
+.gitattributes
+.yarn/
+.pnp.cjs

@@ -1,0 +1,8 @@
+{
+  "name": "pte2",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "toml": "^3.0.0"
+  }
+}
