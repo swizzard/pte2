@@ -31,8 +31,10 @@
 }
 
 .ex button {
-  margin: 2px;
+  padding: 25px;
+  margin: 5px;
   border: 1px solid #000;
+  border-radius: 25%;
 }
 
 .ex button.resetButton {
