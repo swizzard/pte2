@@ -1,0 +1,10 @@
+[package]
+name = "pte2"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+html = "0.6.3"
+toml = "0.8.19"
+serde = { version = "1.0", features = ["derive"] }
+anyerror = "0.1.12"

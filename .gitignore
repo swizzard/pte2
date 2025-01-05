@@ -5,3 +5,8 @@ public/index.html
 .gitattributes
 .yarn/
 .pnp.cjs
+
+
+# Added by cargo
+
+/target
