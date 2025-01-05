@@ -1,6 +1,6 @@
 # example netlify.toml
 [build]
-command = "pte2"
+command = "./pte2"
 publish = "public"
 
 ## Uncomment to use this redirect for Single Page Applications like create-react-app.
