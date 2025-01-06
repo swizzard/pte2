@@ -4,8 +4,8 @@ exercises = [
   { label = "Piriformis Right", reps = 6 },
   { label = "Piriformis Left", reps = 6 },
   { label = "Butterfly", reps = 6 },
-  { label = "Marching w/Resistance", reps = 8 },
-  { label = "Squats", reps = 8 },
-  { label = "Clamshell Right", reps = 8 },
-  { label = "Clamshell Left", reps = 8 },
+  { label = "Marching w/Resistance", reps = 10 },
+  { label = "Squats", reps = 10 },
+  { label = "Clamshell Right", reps = 10 },
+  { label = "Clamshell Left", reps = 10 },
 ]

@@ -17,12 +17,17 @@
 
 .content {
   grid-column-start: 1;
-  margin-right: 1em;
+  display: grid;
+  row-gap: 20px;
 }
 
 .ex {
   border: 1px solid #0f0;
-  margin-bottom: 5px;
+  margin: 0px 5px 5px 0px;
+}
+
+.ex:last-of-type {
+  margin-bottom: 50px;
 }
 
 .ex h2 {
