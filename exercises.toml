@@ -1,8 +1,11 @@
 exercises = [
+  { label = "Right Hamstring Stretch", reps = 15 },
+  { label = "Left Hamstring Stretch", reps = 15 },
+  { label = "Right IT Band Stretch", reps = 15 },
+  { label = "Left IT Band Stretch", reps = 15 },
   { label = "Left Step-Up", reps = 25 },
   { label = "Right Step-Up", reps = 25 },
   { label = "Left Split Squat", reps = 10 },
   { label = "Right Split Squat", reps = 10 },
   { label = "Wall Slides", reps = 10 },
 ]
-
