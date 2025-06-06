@@ -1,10 +1,8 @@
 exercises = [
-{ label = "Supine Straight Leg Straight Right", reps = 10 },
-{ label = "Supine Straight Leg Out Right", reps = 10 },
-{ label = "Prone Leg Lift Straight Right", reps = 10 },
-{ label = "Prone Left Lift Out Right", reps = 10 },
-{ label = "Supine Straight Leg Straight Left", reps = 10 },
-{ label = "Supine Straight Leg Out Left", reps = 10 },
-{ label = "Prone Leg Lift Straight Left", reps = 10 },
-{ label = "Prone Left Lift Out Left", reps = 10 },
+  { label = "Left Step-Up", reps = 25 },
+  { label = "Right Step-Up", reps = 25 },
+  { label = "Left Split Squat", reps = 10 },
+  { label = "Right Split Squat", reps = 10 },
+  { label = "Wall Slides", reps = 10 },
 ]
+
