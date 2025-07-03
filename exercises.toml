@@ -3,6 +3,8 @@ exercises = [
   { label = "Left Hamstring Stretch", reps = 10 },
   { label = "Right IT Band Stretch", reps = 10 },
   { label = "Left IT Band Stretch", reps = 10 },
+  { label = "Right Calf Stretch", reps = 10 }, 
+  { label = "Left Calf Stretch", reps = 10 },
   { label = "Right Quad Stretch", reps = 10 },
   { label = "Left Quad Stretch", reps = 10 },
   { label = "Right Step-Up x 20", reps = 2 },
