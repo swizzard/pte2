@@ -7,8 +7,8 @@ exercises = [
   { label = "Left Banded Clam Shell x 10", reps = 4 },
   { label = "Right Quad Stretch", reps = 5 },
   { label = "Left Quad Stretch", reps = 5 },
-  { label = "Right Step-Up x 20", reps = 3 },
-  { label = "Left Step-Up x 20", reps = 3 },
+  { label = "Right Split Squat x 10", reps = 3 },
+  { label = "Left Split Squar x 10", reps = 3 },
   { label = "Right 3-Way Leg Swing x 10", reps = 3 },
   { label = "Left 3-Way Leg Swing x 10", reps = 3 }
 ]
