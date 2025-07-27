@@ -3,12 +3,10 @@ exercises = [
   { label = "Left Hamstring Stretch", reps = 10 },
   { label = "Right Knee to Left Shoulder Stretch", reps = 10 },
   { label = "Left Knee to Right Shoulder Stretch", reps = 10 },
-  { label = "Right Banded Clam Shell x 10", reps = 4 },
-  { label = "Left Banded Clam Shell x 10", reps = 4 },
+  { label = "Right Banded Clam Shell x 10", reps = 5 },
+  { label = "Left Banded Clam Shell x 10", reps = 5 },
   { label = "Right Quad Stretch", reps = 5 },
   { label = "Left Quad Stretch", reps = 5 },
   { label = "Right Split Squat x 10", reps = 3 },
   { label = "Left Split Squat x 10", reps = 3 },
-  { label = "Right 3-Way Leg Swing x 10", reps = 3 },
-  { label = "Left 3-Way Leg Swing x 10", reps = 3 }
 ]
